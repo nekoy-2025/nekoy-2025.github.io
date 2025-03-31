@@ -12,7 +12,7 @@ twitter_username: nekoy
 github_username:  nekoy
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
