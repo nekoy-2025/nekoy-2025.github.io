@@ -3,13 +3,15 @@
 <head>
     <meta charset="UTF-8"/>
     <title>HELLO WORLD</title>
-    <script type="text/javascript" src="http://api.tianditu.gov.cn/api?v=4.0&tk=a549022b093c3ce0b1f7e68c4a864b48"></script>
+    <script type="text/javascript" src="http://api.tianditu.gov.cn/api?v=3.0&tk=a549022b093c3ce0b1f7e68c4a864b48"></script>
     <script>
-        var map;
-        var zoom = 12;
-        function onLoad() {
-            map = new T.Map('mapDiv');
-            map.centerAndZoom(new T.LngLat(116.40769, 39.89945), zoom);
+        var map,zoom = 12;
+        function onLoad()
+        {
+            //初始化地图对象
+            map=new TMap("mapDiv");
+            //设置显示地图的中心点和级别
+            map.centerAndZoom(new TLngLat(116.40969,39.89945),zoom);
         }
     </script>
 </head>
