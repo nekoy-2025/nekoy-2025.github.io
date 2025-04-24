@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/team/community-return-program.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/team/event-booking-platform.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/team/flash-residency-program.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/team/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/team/nonprofit-collaboration-partners.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/team/platform-volunteer-program.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/team/sustainability-capacity.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/team/words-from-the-project-lead.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/team/zhengfei-world-team.html</loc>
+</url>
+</urlset>
